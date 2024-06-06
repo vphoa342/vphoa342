@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Van Phu Hoa</h1>
-<h3 align="center">A passionate Data learner</h3>
+<h3 align="center">A passionate problem solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vphoa342&label=Profile%20views&color=0e75b6&style=flat" alt="vphoa342" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vphoa342" alt="vphoa342" /></a> </p>
 
-- 🌱 I’m currently learning **Finance Domain, Power BI**
+- 🌱 I’m currently learning **Anything**
 
 - 🤝 I’m looking for help with **Finance Domain**
 
-- 💬 Ask me about **Python, SQL**
+- 💬 Ask me about **Your problem**
 
 - 📫 How to reach me **vphoa34@gmail.com**
 
